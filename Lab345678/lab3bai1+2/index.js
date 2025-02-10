@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View, TextInput } from "react-native";
+import { StyleSheet, Text, View, TextInput, Modal } from "react-native";
 import { styles } from "./styles";
 import { useState } from "react";
 const Lab3 = () => {
